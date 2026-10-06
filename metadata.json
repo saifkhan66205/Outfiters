@@ -1,0 +1,6 @@
+{
+  "name": "Outfitters | Pakistan High-Street Fashion",
+  "description": "Recreation of Outfitters Pakistan official online store featuring high-street streetwear, video campaign reels, denim vault, and responsive catalog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
